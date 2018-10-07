@@ -1,6 +1,5 @@
 # CNOI
 
-CNOI: The Corpus of Non-king Oracle-Bone Inscription
+CNOI: The Corpus of Non-Royal Oracle-Bone Inscriptions 
 
-Previvew: http://cnoi.tiolw.org.</br>
-          http://cnoi.yichens.com.
+Demo: https://noi.tcolw.com.
